@@ -12,5 +12,7 @@ public class newFriday24_2020 {
         System.out.println(employeeID);
         System.out.println(jobTitle);
         System.out.println(salery);
+        //added from github
+        
     }
 }
